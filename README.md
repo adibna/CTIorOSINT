@@ -1,28 +1,3 @@
-Com certeza! Entendi o problema. Isso geralmente acontece por causa da forma como o texto é colado ou porque o editor que você está usando não está interpretando o formato Markdown corretamente.
-
-A sintaxe que eu gerei está correta para arquivos README.md em plataformas como GitHub, GitLab, etc. O problema mais comum é que, ao copiar de uma página da web, as quebras de linha essenciais para as tabelas se perdem.
-
-A Solução Correta
-Para garantir que funcione, vou colocar o código completo dentro de um bloco, que você pode copiar facilmente com um único clique.
-
-Siga estes passos:
-
-Vá até o seu README.md no GitHub (ou onde estiver hospedado).
-
-Clique em "Edit" (o ícone de lápis ✏️) para abrir o editor.
-
-Apague todo o conteúdo que está lá atualmente.
-
-Copie o bloco de código abaixo (use o botão Copy que aparece no canto superior direito do bloco) e cole no editor.
-
-Clique na aba "Preview" para confirmar que as tabelas e todo o resto estão aparecendo corretamente.
-
-Se estiver tudo certo, salve as alterações ("Commit changes").
-
-Aqui está o código completo. Copie a partir daqui:
-
-Markdown
-
 # Cyber Threat Intelligence and OSINT 🕵️‍♂️🐞
 
 A curated list of Cyber Threat Intelligence (CTI) and Open Source Intelligence (OSINT) sources and tools.
